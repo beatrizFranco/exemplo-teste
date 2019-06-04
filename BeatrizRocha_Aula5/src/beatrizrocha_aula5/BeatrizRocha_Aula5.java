@@ -1,4 +1,4 @@
-
+﻿
 package beatrizrocha_aula5;
 
 import javax.swing.JOptionPane;
@@ -11,7 +11,8 @@ public class BeatrizRocha_Aula5 {
         
         int opcMenu1 = 0;   
         String opcMenu2 = " ";
-                            
+           
+	//inclui esse comentario                 
         do {
                     
               opcMenu1 = Integer.parseInt(JOptionPane.showInputDialog(null, "M E N U\n"
